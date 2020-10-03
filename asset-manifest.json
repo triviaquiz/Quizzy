@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/quizzy/static/js/main.aa654d75.chunk.js",
+    "main.js.map": "/quizzy/static/js/main.aa654d75.chunk.js.map",
+    "runtime-main.js": "/quizzy/static/js/runtime-main.bb6838f8.js",
+    "runtime-main.js.map": "/quizzy/static/js/runtime-main.bb6838f8.js.map",
+    "static/css/2.f03a9eb5.chunk.css": "/quizzy/static/css/2.f03a9eb5.chunk.css",
+    "static/js/2.bfc9756a.chunk.js": "/quizzy/static/js/2.bfc9756a.chunk.js",
+    "static/js/2.bfc9756a.chunk.js.map": "/quizzy/static/js/2.bfc9756a.chunk.js.map",
+    "index.html": "/quizzy/index.html",
+    "precache-manifest.58b63bed8cce8447c4f5da075697b72e.js": "/quizzy/precache-manifest.58b63bed8cce8447c4f5da075697b72e.js",
+    "service-worker.js": "/quizzy/service-worker.js",
+    "static/css/2.f03a9eb5.chunk.css.map": "/quizzy/static/css/2.f03a9eb5.chunk.css.map",
+    "static/js/2.bfc9756a.chunk.js.LICENSE.txt": "/quizzy/static/js/2.bfc9756a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/quizzy/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/code.png": "/quizzy/static/media/code.60b1b385.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb6838f8.js",
+    "static/css/2.f03a9eb5.chunk.css",
+    "static/js/2.bfc9756a.chunk.js",
+    "static/js/main.aa654d75.chunk.js"
+  ]
+}
